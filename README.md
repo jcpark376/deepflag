@@ -5,13 +5,17 @@ StyleGAN2-ADA is the latest iteration of [Generative-Adversarial Networks](https
 
 # Organization of Repository
 1. The [code_notebooks](https://github.com/jcpark376/deepflag/tree/main/code_notebooks) folder contains three files.
-    * [resize](): resizing and formatting image files to be fed into neural network.
-    * [training](): training of the neural network
-    * [generation](): generation of newly generated flags
-2. [PDF of Presentation]() based on this project.
+    * [resize](https://github.com/jcpark376/deepflag/blob/main/code_notebooks/resize.ipynb): resizing and formatting image files to be fed into neural network.
+    * [training](https://github.com/jcpark376/deepflag/blob/main/code_notebooks/Main%20Stylegan2-ada%20Custom%20Training.ipynb): training of the neural network
+    * [generation](https://github.com/jcpark376/deepflag/blob/main/code_notebooks/Generator.ipynb): generation of newly generated flags
+2. [PDF of Presentation](https://github.com/jcpark376/deepflag/blob/main/presentation/Presentation.pdf) based on this project.
+3. [Example images folder](https://github.com/jcpark376/deepflag/tree/main/example_generated)
+
+# Select Generated Flags (more in the [Example images folder](https://github.com/jcpark376/deepflag/tree/main/example_generated))
+![Example_4](https://github.com/jcpark376/deepflag/blob/main/example_generated/Example_4.jpg)
 
 # Acknowledgements
+* This project utilized [Google Colaboratory](colab.research.google.com) for training and generation of the neural network
 * NVIDIA's [repo for StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada)
-* Tutorials and notebooks on StyleGAN2-ADA (by [Derrick Schultz](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA), from Artificial Images)
-* [Chris Doenlen](https://github.com/scrapfishies), data scientist, for his help and knowledge with GANs.
-
+* Tutorials and notebooks on StyleGAN2-ADA by [Derrick Schultz](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA)
+* [Chris Doenlen](https://github.com/scrapfishies) for his help and knowledge with GANs.
