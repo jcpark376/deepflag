@@ -11,7 +11,8 @@ StyleGAN2-ADA is the latest iteration of [Generative-Adversarial Networks](https
 2. [PDF of Presentation](https://github.com/jcpark376/deepflag/blob/main/presentation/Presentation.pdf) based on this project.
 3. [Example images folder](https://github.com/jcpark376/deepflag/tree/main/example_generated)
 
-# Select Generated Flags (more in the [Example images folder](https://github.com/jcpark376/deepflag/tree/main/example_generated))
+# Select Generated Flags 
+(more in the [Example images folder](https://github.com/jcpark376/deepflag/tree/main/example_generated))
 ![Example_4](https://github.com/jcpark376/deepflag/blob/main/example_generated/Example_4.jpg)
 
 # Acknowledgements
